@@ -1,0 +1,5 @@
+write the following in Command Window
+OI=[0.3 0.3 0.2]';
+OF=[-1 -1 0.4]';
+Angle=-20;
+Trajectory_PLaning(OI,OF,0,5,Angle)
